@@ -2,7 +2,7 @@ import Home from "./components/home/Home"
 import About from "./components/about/About"
 import Skills from "./components/skills/Skills"
 import Services from "./components/services/Services"
-import PortfolioSection from "./components/portfolio/PortfolioSection"
+import Portfolio from "./components/portfolio/Portfolio"
 import Contact from "./components/contact/Contact"
 import Footer from "./components/footer/Footer"
 import NavBar from "./components/navbar/NavBar"
@@ -16,7 +16,7 @@ function App() {
       <About /> 
       <Skills />
       <Services />
-      <PortfolioSection />
+      <Portfolio />
       <Contact />
       <Footer />
     </>
